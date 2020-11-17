@@ -27,7 +27,7 @@ except ImportError:
              | THANKS TO        : [Allah SWT] [Muhammad SAW]               |
              |                    [IND }JAVA{SEC] [ALL JCT.ID]             |
 | Contack WhatsApp : 08311800241                              |
-             | Website Team     : www.indonesianjavasecurity.com  v vv  v  |
+             | Website Team     : www.indonesianjavasecurity.com           |
              ===============================================================
         
              IND } JAVA { SEC                 github.com/FahanXCode7 
