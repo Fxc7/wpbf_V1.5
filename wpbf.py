@@ -26,11 +26,11 @@ except ImportError:
              | FACEBOOK         : FarhanXCo                                |
              | THANKS TO        : [Allah SWT] [Muhammad SAW]               |
              |                    [IND }JAVA{SEC] [ALL JCT.ID]             |
-             | Contack WhatsApp : 08311800241                              |
+| Contack WhatsApp : 08311800241                              |
              | Website Team     : www.indonesianjavasecurity.com  v vv  v  |
              ===============================================================
         
-             IND } JAVA { SEC                 github.com/FarhanXCode7 
+             IND } JAVA { SEC                 github.com/FahanXCode7 
 
                   Note! : Resiko Ditanggung Sendiri 
 '''
